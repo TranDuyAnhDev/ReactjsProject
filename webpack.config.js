@@ -94,7 +94,6 @@ module.exports = {
     devtool: process.env.DEV_TOOL ? process.env.DEV_TOOL : 'eval-cheap-source-map',
     //
     resolve: {
-        extensions: ['.js', '.jsx', '*', 'scss', 'css'],
         modules: ['node_modules'],
         alias: {
             '@components': path.resolve(__dirname, './src/components'),

@@ -1,0 +1,14 @@
+/.idea
+/node_modules
+/build
+/.env
+/.env.*
+/gulpfile.js
+/package-lock.json
+/debug.log
+/.awcache
+/.vscode
+/.gulpfile.js
+/yarn.lock
+.DS_Store
+.scannerwork
